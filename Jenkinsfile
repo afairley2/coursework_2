@@ -24,7 +24,7 @@ node {
 
 
 
-        app = docker.build("getintodevops/hellonode")
+        app = docker.build("afairl201/hellonode")
 
     }
 
